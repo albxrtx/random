@@ -1,4 +1,4 @@
-let edad = 5;
+let edad = 51;
 let boton = document.querySelector("button");
 function cuentaAtras() {
   boton.disabled = true;
